@@ -2,7 +2,7 @@
 
 un mensaje aqui
 
-- [] frontend
-- [] backend
-- [] config server
-- [] ni idea
+- [ ] frontend
+- [ ] backend
+- [ ] config server
+- [ ] ni idea
